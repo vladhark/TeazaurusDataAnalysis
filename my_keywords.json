@@ -1,0 +1,1117 @@
+[
+  {
+    "keyword": "Accuracy парадокс",
+    "target": "Accuracy парадокс",
+    "variations": []
+  },
+  {
+    "keyword": "Accuracy",
+    "target": "Accuracy",
+    "variations": []
+  },
+  {
+    "keyword": "ANOVA (F-тест)",
+    "target": "ANOVA (F-тест)",
+    "variations": []
+  },
+  {
+    "keyword": "AUC (Area Under Curve)",
+    "target": "AUC (Area Under Curve)",
+    "variations": []
+  },
+  {
+    "keyword": "Bag of Words (BoW)",
+    "target": "Bag of Words (BoW)",
+    "variations": []
+  },
+  {
+    "keyword": "BG_NBD (Beta-Geometric _ Negative Binomial Distribution)",
+    "target": "BG_NBD (Beta-Geometric _ Negative Binomial Distribution)",
+    "variations": []
+  },
+  {
+    "keyword": "Byte‑Pair Encoding (BPE)",
+    "target": "Byte‑Pair Encoding (BPE)",
+    "variations": []
+  },
+  {
+    "keyword": "CatBoostClassifier",
+    "target": "CatBoostClassifier",
+    "variations": []
+  },
+  {
+    "keyword": "Char‑level токенизация",
+    "target": "Char‑level токенизация",
+    "variations": []
+  },
+  {
+    "keyword": "ColumnTransformer",
+    "target": "ColumnTransformer",
+    "variations": []
+  },
+  {
+    "keyword": "Concept Drift",
+    "target": "Concept Drift",
+    "variations": []
+  },
+  {
+    "keyword": "Count plot (столбчатая диаграмма частот)",
+    "target": "Count plot (столбчатая диаграмма частот)",
+    "variations": []
+  },
+  {
+    "keyword": "Covariate Drift",
+    "target": "Covariate Drift",
+    "variations": []
+  },
+  {
+    "keyword": "CRS (Coordinate Reference System)",
+    "target": "CRS (Coordinate Reference System)",
+    "variations": []
+  },
+  {
+    "keyword": "CSI (Characteristic Stability Index)",
+    "target": "CSI (Characteristic Stability Index)",
+    "variations": []
+  },
+  {
+    "keyword": "Data Drift",
+    "target": "Data Drift",
+    "variations": []
+  },
+  {
+    "keyword": "F1-score",
+    "target": "F1-score",
+    "variations": []
+  },
+  {
+    "keyword": "FastText",
+    "target": "FastText",
+    "variations": []
+  },
+  {
+    "keyword": "Feature Importances (CatBoost)",
+    "target": "Feature Importances (CatBoost)",
+    "variations": []
+  },
+  {
+    "keyword": "Feature Importances (деревья)",
+    "target": "Feature Importances (деревья)",
+    "variations": []
+  },
+  {
+    "keyword": "fit _ transform _ fit_transform",
+    "target": "fit _ transform _ fit_transform",
+    "variations": []
+  },
+  {
+    "keyword": "Frequency (частота повторных покупок) в BTYD",
+    "target": "Frequency (частота повторных покупок) в BTYD",
+    "variations": []
+  },
+  {
+    "keyword": "gaussian_kde",
+    "target": "gaussian_kde",
+    "variations": []
+  },
+  {
+    "keyword": "GeoDataFrame (geopandas)",
+    "target": "GeoDataFrame (geopandas)",
+    "variations": []
+  },
+  {
+    "keyword": "GloVe (Global Vectors)",
+    "target": "GloVe (Global Vectors)",
+    "variations": []
+  },
+  {
+    "keyword": "Inertia",
+    "target": "Inertia",
+    "variations": []
+  },
+  {
+    "keyword": "IQR (межквартильный размах)",
+    "target": "IQR (межквартильный размах)",
+    "variations": []
+  },
+  {
+    "keyword": "KFold (k-блочная кросс-валидация)",
+    "target": "KFold (k-блочная кросс-валидация)",
+    "variations": []
+  },
+  {
+    "keyword": "KMeans",
+    "target": "KMeans",
+    "variations": []
+  },
+  {
+    "keyword": "KS-тест (Kolmogorov–Smirnov)",
+    "target": "KS-тест (Kolmogorov–Smirnov)",
+    "variations": []
+  },
+  {
+    "keyword": "Label Drift",
+    "target": "Label Drift",
+    "variations": []
+  },
+  {
+    "keyword": "LogisticRegression",
+    "target": "LogisticRegression",
+    "variations": []
+  },
+  {
+    "keyword": "MAE (Mean Absolute Error)",
+    "target": "MAE (Mean Absolute Error)",
+    "variations": []
+  },
+  {
+    "keyword": "min_dist в UMAP",
+    "target": "min_dist в UMAP",
+    "variations": []
+  },
+  {
+    "keyword": "NaN (Not a Number)",
+    "target": "NaN (Not a Number)",
+    "variations": []
+  },
+  {
+    "keyword": "numpy.random",
+    "target": "numpy.random",
+    "variations": []
+  },
+  {
+    "keyword": "n_neighbors в UMAP",
+    "target": "n_neighbors в UMAP",
+    "variations": []
+  },
+  {
+    "keyword": "OneHotEncoder",
+    "target": "OneHotEncoder",
+    "variations": []
+  },
+  {
+    "keyword": "One‑hot encoding на основе токенов",
+    "target": "One‑hot encoding на основе токенов",
+    "variations": []
+  },
+  {
+    "keyword": "One‑hot кодирование токенов (для классификации текстов)",
+    "target": "One‑hot кодирование токенов (для классификации текстов)",
+    "variations": []
+  },
+  {
+    "keyword": "OrdinalEncoder _ LabelEncoder",
+    "target": "OrdinalEncoder _ LabelEncoder",
+    "variations": []
+  },
+  {
+    "keyword": "pandas",
+    "target": "pandas",
+    "variations": []
+  },
+  {
+    "keyword": "PCA (Principal Component Analysis)",
+    "target": "PCA (Principal Component Analysis)",
+    "variations": []
+  },
+  {
+    "keyword": "pd.DataFrame",
+    "target": "pd.DataFrame",
+    "variations": []
+  },
+  {
+    "keyword": "pd.Series",
+    "target": "pd.Series",
+    "variations": []
+  },
+  {
+    "keyword": "Pipeline (sklearn)",
+    "target": "Pipeline (sklearn)",
+    "variations": []
+  },
+  {
+    "keyword": "Plotly Express (px)",
+    "target": "Plotly Express (px)",
+    "variations": []
+  },
+  {
+    "keyword": "Plotly Graph Objects (go)",
+    "target": "Plotly Graph Objects (go)",
+    "variations": []
+  },
+  {
+    "keyword": "Precision (точность)",
+    "target": "Precision (точность)",
+    "variations": []
+  },
+  {
+    "keyword": "PSI (Population Stability Index)",
+    "target": "PSI (Population Stability Index)",
+    "variations": []
+  },
+  {
+    "keyword": "pymc_marketing.clv.BetaGeoModel",
+    "target": "pymc_marketing.clv.BetaGeoModel",
+    "variations": []
+  },
+  {
+    "keyword": "RandomForestClassifier",
+    "target": "RandomForestClassifier",
+    "variations": []
+  },
+  {
+    "keyword": "RandomForestRegressor",
+    "target": "RandomForestRegressor",
+    "variations": []
+  },
+  {
+    "keyword": "Recall (полнота)",
+    "target": "Recall (полнота)",
+    "variations": []
+  },
+  {
+    "keyword": "Recency (давность) в BTYD",
+    "target": "Recency (давность) в BTYD",
+    "variations": []
+  },
+  {
+    "keyword": "RMSE (Root Mean Squared Error)",
+    "target": "RMSE (Root Mean Squared Error)",
+    "variations": []
+  },
+  {
+    "keyword": "ROC-AUC (Area Under ROC Curve)",
+    "target": "ROC-AUC (Area Under ROC Curve)",
+    "variations": []
+  },
+  {
+    "keyword": "ROC-кривая (Receiver Operating Characteristic)",
+    "target": "ROC-кривая (Receiver Operating Characteristic)",
+    "variations": []
+  },
+  {
+    "keyword": "R² (коэффициент детерминации)",
+    "target": "R² (коэффициент детерминации)",
+    "variations": []
+  },
+  {
+    "keyword": "Scattermap (карта-рассеяние в Plotly)",
+    "target": "Scattermap (карта-рассеяние в Plotly)",
+    "variations": []
+  },
+  {
+    "keyword": "scipy.stats",
+    "target": "scipy.stats",
+    "variations": []
+  },
+  {
+    "keyword": "SGDRegressor",
+    "target": "SGDRegressor",
+    "variations": []
+  },
+  {
+    "keyword": "Silhouette score",
+    "target": "Silhouette score",
+    "variations": []
+  },
+  {
+    "keyword": "StandardScaler",
+    "target": "StandardScaler",
+    "variations": []
+  },
+  {
+    "keyword": "T (возраст клиента) в BTYD",
+    "target": "T (возраст клиента) в BTYD",
+    "variations": []
+  },
+  {
+    "keyword": "t-SNE (t-distributed Stochastic Neighbor Embedding)",
+    "target": "t-SNE (t-distributed Stochastic Neighbor Embedding)",
+    "variations": []
+  },
+  {
+    "keyword": "t-тест для бинарного признака",
+    "target": "t-тест для бинарного признака",
+    "variations": []
+  },
+  {
+    "keyword": "t-тест Стьюдента",
+    "target": "t-тест Стьюдента",
+    "variations": []
+  },
+  {
+    "keyword": "Test (тестовая выборка)",
+    "target": "Test (тестовая выборка)",
+    "variations": []
+  },
+  {
+    "keyword": "TF‑IDF (Term Frequency – Inverse Document Frequency)",
+    "target": "TF‑IDF (Term Frequency – Inverse Document Frequency)",
+    "variations": []
+  },
+  {
+    "keyword": "Train (обучающая выборка)",
+    "target": "Train (обучающая выборка)",
+    "variations": []
+  },
+  {
+    "keyword": "UMAP (Uniform Manifold Approximation and Projection)",
+    "target": "UMAP (Uniform Manifold Approximation and Projection)",
+    "variations": []
+  },
+  {
+    "keyword": "Validation (валидационная выборка)",
+    "target": "Validation (валидационная выборка)",
+    "variations": []
+  },
+  {
+    "keyword": "WineQT (датасет)",
+    "target": "WineQT (датасет)",
+    "variations": []
+  },
+  {
+    "keyword": "Word2Vec",
+    "target": "Word2Vec",
+    "variations": []
+  },
+  {
+    "keyword": "WordPunctTokenizer",
+    "target": "WordPunctTokenizer",
+    "variations": []
+  },
+  {
+    "keyword": "Word‑level токенизация",
+    "target": "Word‑level токенизация",
+    "variations": []
+  },
+  {
+    "keyword": "Z-score (стандартизованная оценка)",
+    "target": "Z-score (стандартизованная оценка)",
+    "variations": []
+  },
+  {
+    "keyword": "«Смерть» клиента (churn) в BTYD",
+    "target": "«Смерть» клиента (churn) в BTYD",
+    "variations": []
+  },
+  {
+    "keyword": "Агрегирующая функция",
+    "target": "Агрегирующая функция",
+    "variations": []
+  },
+  {
+    "keyword": "Аннотация со стрелкой (в matplotlib)",
+    "target": "Аннотация со стрелкой (в matplotlib)",
+    "variations": []
+  },
+  {
+    "keyword": "Аномалии расстояния (геоаналитика)",
+    "target": "Аномалии расстояния (геоаналитика)",
+    "variations": []
+  },
+  {
+    "keyword": "Аномалия (выброс)",
+    "target": "Аномалия (выброс)",
+    "variations": []
+  },
+  {
+    "keyword": "Атрибут .columns",
+    "target": "Атрибут .columns",
+    "variations": []
+  },
+  {
+    "keyword": "Атрибут .shape",
+    "target": "Атрибут .shape",
+    "variations": []
+  },
+  {
+    "keyword": "Бета-распределение Beta(α, β)",
+    "target": "Бета-распределение Beta(α, β)",
+    "variations": []
+  },
+  {
+    "keyword": "Бизнес-логика (для выбросов)",
+    "target": "Бизнес-логика (для выбросов)",
+    "variations": []
+  },
+  {
+    "keyword": "Векторизация текста через среднее (mean pooling)",
+    "target": "Векторизация текста через среднее (mean pooling)",
+    "variations": []
+  },
+  {
+    "keyword": "Векторизация текста через суммирование (sum pooling)",
+    "target": "Векторизация текста через суммирование (sum pooling)",
+    "variations": []
+  },
+  {
+    "keyword": "Вертикальные _ горизонтальные линии (matplotlib)",
+    "target": "Вертикальные _ горизонтальные линии (matplotlib)",
+    "variations": []
+  },
+  {
+    "keyword": "Визуализация one‑hot признаков (после понижения размерности)",
+    "target": "Визуализация one‑hot признаков (после понижения размерности)",
+    "variations": []
+  },
+  {
+    "keyword": "Визуализация выбросов",
+    "target": "Визуализация выбросов",
+    "variations": []
+  },
+  {
+    "keyword": "Визуализация проекции (2D_3D)",
+    "target": "Визуализация проекции (2D_3D)",
+    "variations": []
+  },
+  {
+    "keyword": "Влияние порога на метрики",
+    "target": "Влияние порога на метрики",
+    "variations": []
+  },
+  {
+    "keyword": "Вычисление distance_between_points",
+    "target": "Вычисление distance_between_points",
+    "variations": []
+  },
+  {
+    "keyword": "Гамма-распределение Gamma(α, β)",
+    "target": "Гамма-распределение Gamma(α, β)",
+    "variations": []
+  },
+  {
+    "keyword": "Геоданные (spatial data)",
+    "target": "Геоданные (spatial data)",
+    "variations": []
+  },
+  {
+    "keyword": "Геодезическое расстояние (geodesic distance)",
+    "target": "Геодезическое расстояние (geodesic distance)",
+    "variations": []
+  },
+  {
+    "keyword": "Геометрическое распределение Geom(p)",
+    "target": "Геометрическое распределение Geom(p)",
+    "variations": []
+  },
+  {
+    "keyword": "Гистограмма",
+    "target": "Гистограмма",
+    "variations": []
+  },
+  {
+    "keyword": "Главная компонента (principal component)",
+    "target": "Главная компонента (principal component)",
+    "variations": []
+  },
+  {
+    "keyword": "Группировка (groupby)",
+    "target": "Группировка (groupby)",
+    "variations": []
+  },
+  {
+    "keyword": "Группировка по времени (pandas)",
+    "target": "Группировка по времени (pandas)",
+    "variations": []
+  },
+  {
+    "keyword": "Дисбаланс классов",
+    "target": "Дисбаланс классов",
+    "variations": []
+  },
+  {
+    "keyword": "Доменный признак (feature engineering)",
+    "target": "Доменный признак (feature engineering)",
+    "variations": []
+  },
+  {
+    "keyword": "Дубликаты строк",
+    "target": "Дубликаты строк",
+    "variations": []
+  },
+  {
+    "keyword": "Заливка интервала (axvspan)",
+    "target": "Заливка интервала (axvspan)",
+    "variations": []
+  },
+  {
+    "keyword": "Заливка области (fill_between)",
+    "target": "Заливка области (fill_between)",
+    "variations": []
+  },
+  {
+    "keyword": "Заполнение медианой",
+    "target": "Заполнение медианой",
+    "variations": []
+  },
+  {
+    "keyword": "Заполнение модой",
+    "target": "Заполнение модой",
+    "variations": []
+  },
+  {
+    "keyword": "Индекс (index)",
+    "target": "Индекс (index)",
+    "variations": []
+  },
+  {
+    "keyword": "Инициализация (init) в t-SNE",
+    "target": "Инициализация (init) в t-SNE",
+    "variations": []
+  },
+  {
+    "keyword": "Интенсивность покупок λ (в BTYD)",
+    "target": "Интенсивность покупок λ (в BTYD)",
+    "variations": []
+  },
+  {
+    "keyword": "Интерпретация t-SNE",
+    "target": "Интерпретация t-SNE",
+    "variations": []
+  },
+  {
+    "keyword": "Категоризация непрерывного признака",
+    "target": "Категоризация непрерывного признака",
+    "variations": []
+  },
+  {
+    "keyword": "Классификация (classification)",
+    "target": "Классификация (classification)",
+    "variations": []
+  },
+  {
+    "keyword": "Кластеризация (clustering)",
+    "target": "Кластеризация (clustering)",
+    "variations": []
+  },
+  {
+    "keyword": "Комбинация условий",
+    "target": "Комбинация условий",
+    "variations": []
+  },
+  {
+    "keyword": "Корреляция Пирсона (для отбора признаков)",
+    "target": "Корреляция Пирсона (для отбора признаков)",
+    "variations": []
+  },
+  {
+    "keyword": "Корреляция Спирмена (для отбора признаков)",
+    "target": "Корреляция Спирмена (для отбора признаков)",
+    "variations": []
+  },
+  {
+    "keyword": "Корреляция",
+    "target": "Корреляция",
+    "variations": []
+  },
+  {
+    "keyword": "Косинусное сходство (cosine similarity)",
+    "target": "Косинусное сходство (cosine similarity)",
+    "variations": []
+  },
+  {
+    "keyword": "Коэффициент корреляции Пирсона (Pearson)",
+    "target": "Коэффициент корреляции Пирсона (Pearson)",
+    "variations": []
+  },
+  {
+    "keyword": "Коэффициент ранговой корреляции Спирмена (Spearman)",
+    "target": "Коэффициент ранговой корреляции Спирмена (Spearman)",
+    "variations": []
+  },
+  {
+    "keyword": "Коэффициенты линейной регрессии (важность признаков)",
+    "target": "Коэффициенты линейной регрессии (важность признаков)",
+    "variations": []
+  },
+  {
+    "keyword": "Легенда (legend)",
+    "target": "Легенда (legend)",
+    "variations": []
+  },
+  {
+    "keyword": "Линейное понижение размерности",
+    "target": "Линейное понижение размерности",
+    "variations": []
+  },
+  {
+    "keyword": "Логистическая регрессия на one‑hot токенах",
+    "target": "Логистическая регрессия на one‑hot токенах",
+    "variations": []
+  },
+  {
+    "keyword": "Логическая индексация",
+    "target": "Логическая индексация",
+    "variations": []
+  },
+  {
+    "keyword": "Лямбда-функции (lambda)",
+    "target": "Лямбда-функции (lambda)",
+    "variations": []
+  },
+  {
+    "keyword": "Математическое преобразование (признака)",
+    "target": "Математическое преобразование (признака)",
+    "variations": []
+  },
+  {
+    "keyword": "Матрица компонент pca.components_",
+    "target": "Матрица компонент pca.components_",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .agg()",
+    "target": "Метод .agg()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .clip(lower, upper)",
+    "target": "Метод .clip(lower, upper)",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .corr(method=...)",
+    "target": "Метод .corr(method=...)",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .describe()",
+    "target": "Метод .describe()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .dropna()",
+    "target": "Метод .dropna()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .drop_duplicates()",
+    "target": "Метод .drop_duplicates()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .duplicated()",
+    "target": "Метод .duplicated()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .explode()",
+    "target": "Метод .explode()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .fillna(value)",
+    "target": "Метод .fillna(value)",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .fit() (для BG_NBD)",
+    "target": "Метод .fit() (для BG_NBD)",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .head(n)",
+    "target": "Метод .head(n)",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .info()",
+    "target": "Метод .info()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .isna() _ .isnull()",
+    "target": "Метод .isna() _ .isnull()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .loc[]",
+    "target": "Метод .loc[]",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .quantile(q)",
+    "target": "Метод .quantile(q)",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .str.contains(pattern)",
+    "target": "Метод .str.contains(pattern)",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .str.lower() _ .str.upper()",
+    "target": "Метод .str.lower() _ .str.upper()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .str.replace(pattern, repl)",
+    "target": "Метод .str.replace(pattern, repl)",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .str.split(delimiter)",
+    "target": "Метод .str.split(delimiter)",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .str.strip()",
+    "target": "Метод .str.strip()",
+    "variations": []
+  },
+  {
+    "keyword": "Метод .str.translate()",
+    "target": "Метод .str.translate()",
+    "variations": []
+  },
+  {
+    "keyword": "Метрика (metric) в UMAP",
+    "target": "Метрика (metric) в UMAP",
+    "variations": []
+  },
+  {
+    "keyword": "Многоклассовая классификация",
+    "target": "Многоклассовая классификация",
+    "variations": []
+  },
+  {
+    "keyword": "Настраиваемое всплывающее окно (customdata + hovertemplate) в Plotly",
+    "target": "Настраиваемое всплывающее окно (customdata + hovertemplate) в Plotly",
+    "variations": []
+  },
+  {
+    "keyword": "Нелинейное понижение размерности",
+    "target": "Нелинейное понижение размерности",
+    "variations": []
+  },
+  {
+    "keyword": "Несогласованный текст",
+    "target": "Несогласованный текст",
+    "variations": []
+  },
+  {
+    "keyword": "Нормализация (normalization)",
+    "target": "Нормализация (normalization)",
+    "variations": []
+  },
+  {
+    "keyword": "Нормализация важности (feature importance)",
+    "target": "Нормализация важности (feature importance)",
+    "variations": []
+  },
+  {
+    "keyword": "Обучение модели (текстовая классификация)",
+    "target": "Обучение модели (текстовая классификация)",
+    "variations": []
+  },
+  {
+    "keyword": "Объяснённая дисперсия (explained variance)",
+    "target": "Объяснённая дисперсия (explained variance)",
+    "variations": []
+  },
+  {
+    "keyword": "Оценка разделимости кластеров",
+    "target": "Оценка разделимости кластеров",
+    "variations": []
+  },
+  {
+    "keyword": "Параметр bw_method (bandwidth)",
+    "target": "Параметр bw_method (bandwidth)",
+    "variations": []
+  },
+  {
+    "keyword": "Параметры BG_NBD (α, β, αₚ, βₚ)",
+    "target": "Параметры BG_NBD (α, β, αₚ, βₚ)",
+    "variations": []
+  },
+  {
+    "keyword": "Параметры гистограммы (density=True)",
+    "target": "Параметры гистограммы (density=True)",
+    "variations": []
+  },
+  {
+    "keyword": "Перплексия (perplexity) в t-SNE",
+    "target": "Перплексия (perplexity) в t-SNE",
+    "variations": []
+  },
+  {
+    "keyword": "Подготовка данных для BG_NBD",
+    "target": "Подготовка данных для BG_NBD",
+    "variations": []
+  },
+  {
+    "keyword": "Поиск похожих предложений (semantic similarity search)",
+    "target": "Поиск похожих предложений (semantic similarity search)",
+    "variations": []
+  },
+  {
+    "keyword": "Полигональная геометрия (Polygon _ MultiPolygon)",
+    "target": "Полигональная геометрия (Polygon _ MultiPolygon)",
+    "variations": []
+  },
+  {
+    "keyword": "Порог классификации (threshold)",
+    "target": "Порог классификации (threshold)",
+    "variations": []
+  },
+  {
+    "keyword": "Пороговый (бинарный) признак",
+    "target": "Пороговый (бинарный) признак",
+    "variations": []
+  },
+  {
+    "keyword": "Правило локтя (elbow rule) для PCA",
+    "target": "Правило локтя (elbow rule) для PCA",
+    "variations": []
+  },
+  {
+    "keyword": "Предварительное понижение размерности (перед t-SNE_UMAP)",
+    "target": "Предварительное понижение размерности (перед t-SNE_UMAP)",
+    "variations": []
+  },
+  {
+    "keyword": "Предикат within (пространственный)",
+    "target": "Предикат within (пространственный)",
+    "variations": []
+  },
+  {
+    "keyword": "Предобученная модель эмбеддингов",
+    "target": "Предобученная модель эмбеддингов",
+    "variations": []
+  },
+  {
+    "keyword": "Прогноз (текстовая классификация)",
+    "target": "Прогноз (текстовая классификация)",
+    "variations": []
+  },
+  {
+    "keyword": "Прогноз с помощью BetaGeoModel",
+    "target": "Прогноз с помощью BetaGeoModel",
+    "variations": []
+  },
+  {
+    "keyword": "Прогноз числа покупок на следующие N дней (BTYD)",
+    "target": "Прогноз числа покупок на следующие N дней (BTYD)",
+    "variations": []
+  },
+  {
+    "keyword": "Производный признак",
+    "target": "Производный признак",
+    "variations": []
+  },
+  {
+    "keyword": "Проклятие размерности (curse of dimensionality)",
+    "target": "Проклятие размерности (curse of dimensionality)",
+    "variations": []
+  },
+  {
+    "keyword": "Пространственное соединение (spatial join)",
+    "target": "Пространственное соединение (spatial join)",
+    "variations": []
+  },
+  {
+    "keyword": "Процесс подбора признаков (Feature Selection)",
+    "target": "Процесс подбора признаков (Feature Selection)",
+    "variations": []
+  },
+  {
+    "keyword": "Прямое присваивание (нового признака)",
+    "target": "Прямое присваивание (нового признака)",
+    "variations": []
+  },
+  {
+    "keyword": "Разделение выборки (текстовая классификация)",
+    "target": "Разделение выборки (текстовая классификация)",
+    "variations": []
+  },
+  {
+    "keyword": "Разница между датами (pandas)",
+    "target": "Разница между датами (pandas)",
+    "variations": []
+  },
+  {
+    "keyword": "Разница частот (frequency difference) токенов",
+    "target": "Разница частот (frequency difference) токенов",
+    "variations": []
+  },
+  {
+    "keyword": "Разница частот токенов между классами",
+    "target": "Разница частот токенов между классами",
+    "variations": []
+  },
+  {
+    "keyword": "Расхождение Кульбака–Лейблера (KL divergence) в t-SNE",
+    "target": "Расхождение Кульбака–Лейблера (KL divergence) в t-SNE",
+    "variations": []
+  },
+  {
+    "keyword": "Регрессия (regression)",
+    "target": "Регрессия (regression)",
+    "variations": []
+  },
+  {
+    "keyword": "Связанные графики (cross‑filtering) в Plotly",
+    "target": "Связанные графики (cross‑filtering) в Plotly",
+    "variations": []
+  },
+  {
+    "keyword": "Сегментация",
+    "target": "Сегментация",
+    "variations": []
+  },
+  {
+    "keyword": "Сетка графиков (subplots)",
+    "target": "Сетка графиков (subplots)",
+    "variations": []
+  },
+  {
+    "keyword": "Скорость обучения (learning rate) в t-SNE",
+    "target": "Скорость обучения (learning rate) в t-SNE",
+    "variations": []
+  },
+  {
+    "keyword": "Смесь распределений (mixture distribution)",
+    "target": "Смесь распределений (mixture distribution)",
+    "variations": []
+  },
+  {
+    "keyword": "Стандартизация для PCA",
+    "target": "Стандартизация для PCA",
+    "variations": []
+  },
+  {
+    "keyword": "Стоимость мили (cost_per_unit)",
+    "target": "Стоимость мили (cost_per_unit)",
+    "variations": []
+  },
+  {
+    "keyword": "Стратификация (stratification)",
+    "target": "Стратификация (stratification)",
+    "variations": []
+  },
+  {
+    "keyword": "Субплоты (subplots) в Plotly",
+    "target": "Субплоты (subplots) в Plotly",
+    "variations": []
+  },
+  {
+    "keyword": "Суммарная объяснённая дисперсия",
+    "target": "Суммарная объяснённая дисперсия",
+    "variations": []
+  },
+  {
+    "keyword": "Текстовый блок с фоном (matplotlib)",
+    "target": "Текстовый блок с фоном (matplotlib)",
+    "variations": []
+  },
+  {
+    "keyword": "Тепловая карта корреляций",
+    "target": "Тепловая карта корреляций",
+    "variations": []
+  },
+  {
+    "keyword": "Тип category",
+    "target": "Тип category",
+    "variations": []
+  },
+  {
+    "keyword": "Тип datetime (в pandas)",
+    "target": "Тип datetime (в pandas)",
+    "variations": []
+  },
+  {
+    "keyword": "Тип object",
+    "target": "Тип object",
+    "variations": []
+  },
+  {
+    "keyword": "Токенизация текста (tokenization)",
+    "target": "Токенизация текста (tokenization)",
+    "variations": []
+  },
+  {
+    "keyword": "Точечная геометрия (Point geometry)",
+    "target": "Точечная геометрия (Point geometry)",
+    "variations": []
+  },
+  {
+    "keyword": "Уникальные значения (unique)",
+    "target": "Уникальные значения (unique)",
+    "variations": []
+  },
+  {
+    "keyword": "Утечка данных (data leakage)",
+    "target": "Утечка данных (data leakage)",
+    "variations": []
+  },
+  {
+    "keyword": "Фиксация seed",
+    "target": "Фиксация seed",
+    "variations": []
+  },
+  {
+    "keyword": "Фильтрация по ограничивающему прямоугольнику (bounding box)",
+    "target": "Фильтрация по ограничивающему прямоугольнику (bounding box)",
+    "variations": []
+  },
+  {
+    "keyword": "Фильтрация через виджеты (updatemenus _ buttons) в Plotly",
+    "target": "Фильтрация через виджеты (updatemenus _ buttons) в Plotly",
+    "variations": []
+  },
+  {
+    "keyword": "Функция np.where()",
+    "target": "Функция np.where()",
+    "variations": []
+  },
+  {
+    "keyword": "Функция pd.cut()",
+    "target": "Функция pd.cut()",
+    "variations": []
+  },
+  {
+    "keyword": "Функция выживания S(t) (BTYD)",
+    "target": "Функция выживания S(t) (BTYD)",
+    "variations": []
+  },
+  {
+    "keyword": "Функция риска (hazard) h(t) (BTYD)",
+    "target": "Функция риска (hazard) h(t) (BTYD)",
+    "variations": []
+  },
+  {
+    "keyword": "Час события (pickup_hour)",
+    "target": "Час события (pickup_hour)",
+    "variations": []
+  },
+  {
+    "keyword": "Частота токена (token frequency)",
+    "target": "Частота токена (token frequency)",
+    "variations": []
+  },
+  {
+    "keyword": "Частотное распределение (value_counts)",
+    "target": "Частотное распределение (value_counts)",
+    "variations": []
+  },
+  {
+    "keyword": "Экспоненциальное распределение Exp(λ)",
+    "target": "Экспоненциальное распределение Exp(λ)",
+    "variations": []
+  },
+  {
+    "keyword": "Экспорт в HTML (Plotly)",
+    "target": "Экспорт в HTML (Plotly)",
+    "variations": []
+  },
+  {
+    "keyword": "Эмбеддинг (embedding)",
+    "target": "Эмбеддинг (embedding)",
+    "variations": []
+  },
+  {
+    "keyword": "Ящик с усами (boxplot)",
+    "target": "Ящик с усами (boxplot)",
+    "variations": []
+  }
+]
